@@ -2,7 +2,7 @@
   "name": "homework-react-03",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lika-ruby.github.io/homework-react-03/",
+  "homepage": "https://lika-ruby.github.io/homework-react-03",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
