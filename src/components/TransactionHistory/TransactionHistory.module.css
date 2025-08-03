@@ -1,0 +1,12 @@
+.transaction_history {
+  border: 5px solid #422602;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.transaction_th {
+  border: 3px solid #422602;
+  padding: 20px 40px;
+  background-color: #ff9f30;
+  color: #fff;
+}

@@ -1,0 +1,21 @@
+.item {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 18px;
+  line-height: 1.2;
+  color: #fff;
+}
+
+.percentage {
+  font-size: 32px;
+  line-height: 1.2;
+  color: #fff;
+}
